@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+   box-sizing: border-box;
+}
+body{
+    height: 225px;
+    width: 250px;
+    margin: 225px auto auto auto;
+    font-family: 'Big Shoulders Display', cursive, sans-serif;
+    border: 2px solid black;
+    font-size: 30px;
+}
+#submitID{
+    border: 1px solid black;
+    width: 210px;
+
+
+}
+.centerArea{
+    text-align: center;
+}
+#firstName, #lastName, #email {
+    height: 25px;
+}
